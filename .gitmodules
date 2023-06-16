@@ -1,3 +1,6 @@
 [submodule "Parcial-Sistema-Alquileres"]
 	path = Parcial-Sistema-Alquileres
 	url = https://github.com/cimi88/Parcial-Sistema-Alquileres.git
+[submodule "Parcial-Sistema-Aula"]
+	path = Parcial-Sistema-Aula
+	url = https://github.com/cimi88/Parcial-Sistema-Aula.git
